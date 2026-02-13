@@ -1,3 +1,5 @@
+package Week1.DNS;
+
 class DNSEntry {
     String domain;
     String ipAddress;

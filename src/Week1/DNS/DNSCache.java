@@ -1,3 +1,5 @@
+package Week1.DNS;
+
 import java.util.*;
 
 
